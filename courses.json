@@ -198,5 +198,15 @@
      "difficulty" : "advanced",
      "module_number" : 10,
      "certification" : "paid"
+    },
+    {
+      "id" :  15,
+      "platform" : "educative",
+      "free_course" : "no",
+      "course_name" : "Software Design Patterns in C",
+      "link" : "https://www.educative.io/courses/software-design-patterns-c",
+      "difficulty" : "Intermediate",
+      "module_number" : 8,
+      "certification" : "paid"
     }
 ]
